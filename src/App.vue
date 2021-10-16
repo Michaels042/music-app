@@ -50,6 +50,11 @@ export default {
           src: require('./assets/Be-Still-Hillsong-Worship.mp3')
         },
         {
+          title: 'The-Lord_s-Prayer',
+          artist: 'Hillsong',
+          src: require('./assets/The-Lord_s-Prayer-Hillsong-Worship.mp3')
+        },
+        {
           title: 'Touch-Of-Heaven',
           artist: 'Hillsong',
           src: require('./assets/Touch-Of-Heaven-Hillsong-Worship.mp3')
