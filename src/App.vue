@@ -44,6 +44,11 @@ export default {
           artist: 'Hillsong',
           src: require('./assets/You-Are-Life-Hillsong-Worship.mp3')
         },
+         {
+          title: 'Be-Still',
+          artist: 'Hillsong',
+          src: require('./assets/Be-Still-Hillsong-Worship.mp3')
+        },
         {
           title: 'Touch-Of-Heaven',
           artist: 'Hillsong',
